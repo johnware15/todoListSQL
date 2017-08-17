@@ -1,0 +1,22 @@
+{
+  "name": "todolistsql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnware15/todoListSQL.git"
+  },
+  "author": "johnware15",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnware15/todoListSQL/issues"
+  },
+  "homepage": "https://github.com/johnware15/todoListSQL#readme",
+  "devDependencies": {
+    "pg": "^7.1.2"
+  }
+}
