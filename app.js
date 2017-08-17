@@ -4,8 +4,8 @@ const list = require('./commands/list.js')
 const remove = require('./commands/remove.js')
 
 switch(process.argv[2]) {
-  case 'done':
-    done()
+  case 'complete':
+    complete()
     break;
   case 'add';
     add()
